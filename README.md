@@ -1,8 +1,4 @@
-# vue-vuex-firebase-tutorial
-
-> A Vue.js project
-
-> Working URL: https://tcstx.github.io/vue-vuex-firebase-tutorial
+# vue-vuex-firebase
 
 ## Build Setup
 
